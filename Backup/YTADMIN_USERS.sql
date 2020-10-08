@@ -1,0 +1,10 @@
+INSERT INTO YTADMIN.USERS (USER_ID, USER_NAME, USER_PASSWORD, USER_EMAIL, USER_YT_ID) VALUES (1, 'DevDuck', 'devduck_pass', 'devduck@yt.com', 'UCKCTmact-90hXpV2ns8GSsA');
+INSERT INTO YTADMIN.USERS (USER_ID, USER_NAME, USER_PASSWORD, USER_EMAIL, USER_YT_ID) VALUES (2, 'Dani', 'dani_pass', 'dani@yt.com', 'UCIabPXjvT5BVTxRDPCBBOOQ');
+INSERT INTO YTADMIN.USERS (USER_ID, USER_NAME, USER_PASSWORD, USER_EMAIL, USER_YT_ID) VALUES (3, 'Joseph Anderson', 'joseph_pass', 'joseph@yt.com', 'UCyhnYIvIKK_--PiJXCMKxQQ');
+INSERT INTO YTADMIN.USERS (USER_ID, USER_NAME, USER_PASSWORD, USER_EMAIL, USER_YT_ID) VALUES (4, 'MovieBitches', 'moviebitches_pass', 'moviebitches@yt.com', 'UCNaNtF7f4kZrFyl7M4rDNcQ');
+INSERT INTO YTADMIN.USERS (USER_ID, USER_NAME, USER_PASSWORD, USER_EMAIL, USER_YT_ID) VALUES (5, 'TVGry', 'tvgry_pass', 'tvgry@yt.com', 'UCtGnMWpCcoRZVWxkVKp3Ulg');
+INSERT INTO YTADMIN.USERS (USER_ID, USER_NAME, USER_PASSWORD, USER_EMAIL, USER_YT_ID) VALUES (6, 'blair walnuts', 'blair_pass', 'blair@yt.com', 'UCI008zmtg75Zny_mI7H9uWQ');
+INSERT INTO YTADMIN.USERS (USER_ID, USER_NAME, USER_PASSWORD, USER_EMAIL, USER_YT_ID) VALUES (7, 'Luxe Alexander', 'luxe_pass', 'luxe@yt.com', 'UCyUgwOjD7ju4MbmTACYWCRg');
+INSERT INTO YTADMIN.USERS (USER_ID, USER_NAME, USER_PASSWORD, USER_EMAIL, USER_YT_ID) VALUES (8, 'Deligracy', 'deligracy_pass', 'deligracy@yt.com', 'deligracy');
+INSERT INTO YTADMIN.USERS (USER_ID, USER_NAME, USER_PASSWORD, USER_EMAIL, USER_YT_ID) VALUES (9, 'Bungo21', 'bungo21_pass', 'bungo21@yt.com', 'Bungo21');
+INSERT INTO YTADMIN.USERS (USER_ID, USER_NAME, USER_PASSWORD, USER_EMAIL, USER_YT_ID) VALUES (10, 'NNiezapominajka', 'nniezapominajka_pass', 'nniezapominajka@yt.com', 'NNiezapominajka');
